@@ -43,7 +43,9 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 <dt>University</dt>
 <dd>KLE Technological University, Belgavi Campus</dd>
 <dt>Portfolio Topic/Domain</dt>
-<dd>Google</dd>
+<dd>https://github.com/SUSHeka/DAA-FINAL-PROJECT</dd>
+
+  
 </dl>
 
 <br> 
