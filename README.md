@@ -22,10 +22,6 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 
 ![Project Screenshot](assets/image.jpg)
 
-[Check out my Google](https://www.google.com/)<br>
-[Check out a sample Portfolio](https://jiyapalrecha35.github.io/Google.github.io/)<br>
-[Check out this repo](https://github.com/hiteshchoudhary/apihub)<br>
-
 
 [About Me](about.md)
 
@@ -43,6 +39,7 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 <dt>University</dt>
 <dd>KLE Technological University, Belgavi Campus</dd>
 <dt>Portfolio Topic/Domain</dt>
+<dt>C++ Code file</dt>
 <dd>https://github.com/SUSHeka/DAA-FINAL-PROJECT</dd>
 
   
