@@ -41,7 +41,7 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 <dt>Portfolio Topic/Domain</dt>
 <dt>C++ Code file</dt>
 </dl>
-<a>(https://github.com/SUSHeka/DAA-FINAL-PROJECT)</a>
+<a href="https://github.com/SUSHeka/DAA-FINAL-PROJECT">My code file</a>
 
 <br> 
 > “The only way to do great work is to love what you do.” – Steve Jobs
