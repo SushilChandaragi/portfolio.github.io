@@ -40,11 +40,8 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 <dd>KLE Technological University, Belgavi Campus</dd>
 <dt>Portfolio Topic/Domain</dt>
 <dt>C++ Code file</dt>
-
-- [GitHub](https://github.com/SUSHeka/DAA-FINAL-PROJECT)
-
-  
 </dl>
+<a>(https://github.com/SUSHeka/DAA-FINAL-PROJECT)</a>
 
 <br> 
 > “The only way to do great work is to love what you do.” – Steve Jobs
