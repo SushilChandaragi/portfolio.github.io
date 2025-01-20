@@ -40,7 +40,8 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 <dd>KLE Technological University, Belgavi Campus</dd>
 <dt>Portfolio Topic/Domain</dt>
 <dt>C++ Code file</dt>
-<dd>https://github.com/SUSHeka/DAA-FINAL-PROJECT</dd>
+
+- [GitHub](https://github.com/SUSHeka/DAA-FINAL-PROJECT)
 
   
 </dl>
