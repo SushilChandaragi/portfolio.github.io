@@ -6,8 +6,7 @@
 I am passionate about technology and problem-solving. Here's a glimpse of my work:
 
 ## 🛠️ Projects
-- **Project 1**: A short description of your project.
-- **Project 2**: A short description of another project.
+- **Project 1**: Our project consists of Public health system,Waste management,public transporataion ,and tourism ,we have coded and provided solutions for various problems,our project name is City Sync.
 
 ## 🚀 Skills
 - C++, Python, 
